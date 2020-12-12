@@ -1,0 +1,10 @@
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\bin\Debug\SimpleMinefield.exe.config
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\bin\Debug\SimpleMinefield.exe
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\bin\Debug\SimpleMinefield.pdb
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\obj\Debug\SimpleMinefield.Form1.resources
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\obj\Debug\SimpleMinefield.Properties.Resources.resources
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\obj\Debug\SimpleMinefield.csproj.GenerateResource.cache
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\obj\Debug\SimpleMinefield.csproj.CoreCompileInputs.cache
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\obj\Debug\SimpleMinefield.exe
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\obj\Debug\SimpleMinefield.pdb
+C:\Users\caner\Desktop\A-Backend\SimpleMinefield\obj\Debug\SimpleMinefield.csprojAssemblyReference.cache
